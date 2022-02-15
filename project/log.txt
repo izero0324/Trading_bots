@@ -1,0 +1,7 @@
+Requirement already satisfied: cryptocmd in /home/ubuntu/tensorflow/anaconda3/lib/python3.7/site-packages (0.6.0)
+Requirement already satisfied: tablib in /home/ubuntu/tensorflow/anaconda3/lib/python3.7/site-packages (from cryptocmd) (3.0.0)
+Requirement already satisfied: requests in /home/ubuntu/tensorflow/anaconda3/lib/python3.7/site-packages (from cryptocmd) (2.25.1)
+Requirement already satisfied: certifi>=2017.4.17 in /home/ubuntu/tensorflow/anaconda3/lib/python3.7/site-packages (from requests->cryptocmd) (2020.12.5)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /home/ubuntu/tensorflow/anaconda3/lib/python3.7/site-packages (from requests->cryptocmd) (1.26.4)
+Requirement already satisfied: idna<3,>=2.5 in /home/ubuntu/tensorflow/anaconda3/lib/python3.7/site-packages (from requests->cryptocmd) (2.10)
+Requirement already satisfied: chardet<5,>=3.0.2 in /home/ubuntu/tensorflow/anaconda3/lib/python3.7/site-packages (from requests->cryptocmd) (4.0.0)
